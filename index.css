@@ -1,0 +1,1037 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.icon {
+  width: 1920px;
+  height: 1040px;
+  left: -2px;
+  top: 1px;
+
+  border: 1px solid #fec9ca;
+  box-sizing: border-box;
+}
+
+.header {
+  position: absolute;
+  width: 1920px;
+  height: 130px;
+  left: 0px;
+  top: 0px;
+  background-color: #415679;
+}
+
+.img {
+  position: absolute;
+  width: 147px;
+  height: 130px;
+  left: 119px;
+  top: 0px;
+}
+
+.home {
+  position: absolute;
+  width: 67px;
+  height: 40px;
+  left: 683px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.portfolio {
+  position: absolute;
+  width: 95px;
+  height: 40px;
+  left: 822px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.testimonials {
+  position: absolute;
+  width: 142px;
+  height: 40px;
+  left: 989px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.services {
+  position: absolute;
+  width: 94px;
+  height: 40px;
+  left: 1203px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.supporters {
+  position: absolute;
+  width: 121px;
+  height: 40px;
+  left: 1369px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.about {
+  position: absolute;
+  width: 99px;
+  height: 40px;
+  left: 1562px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.contact {
+  position: absolute;
+  width: 119px;
+  height: 40px;
+  left: 1733px;
+  top: 52px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+
+.ipsum {
+  position: absolute;
+  width: 430.85px;
+  height: 102.33px;
+  left: 118.87px;
+  top: 293px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #fee950;
+}
+
+.lorem {
+  position: absolute;
+  width: 917.04px;
+  height: 157.89px;
+  left: 118.87px;
+  top: 450.89px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 36px;
+
+  color: #ffffff;
+}
+
+.button1 {
+  position: absolute;
+  width: 299.69px;
+  height: 70px;
+  left: 118.87px;
+  top: 661px;
+
+  background: #fee950;
+  border-radius: 10px;
+  border: #fee542;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+
+  color: #415679;
+}
+
+.button1:hover {
+  background: #415679;
+  color: #fee542;
+}
+
+.vector {
+  position: absolute;
+  width: 0px;
+  height: 42.98px;
+  left: 957px;
+  top: 969px;
+}
+
+.frame6 {
+  position: absolute;
+  width: 1920px;
+  height: 896px;
+  left: 0px;
+  top: 1041px;
+
+  background: rgba(183, 201, 213, 0.3);
+}
+
+.portfolio-title {
+  position: absolute;
+  width: 354px;
+  height: 65px;
+  left: 317px;
+  top: 84px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #333333;
+}
+
+.lorem-text {
+  position: absolute;
+  width: 1282px;
+  height: 66.64px;
+  left: 317px;
+  top: 190px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #333333;
+}
+
+.image-rectangle4 {
+  position: absolute;
+  width: 975px;
+  height: 576.66px;
+  left: 0px;
+  top: 319.34px;
+}
+
+.slide-rectangle4 {
+  position: absolute;
+  width: 28px;
+  height: 296.2px;
+  left: 72px;
+  top: 460.03px;
+}
+
+.p-up {
+  position: absolute;
+  width: 60px;
+  height: 55.54px;
+  left: 945px;
+  top: 419.31px;
+}
+
+.p-down {
+  position: absolute;
+  width: 60px;
+  height: 55.54px;
+  left: 945px;
+  top: 740.5px;
+}
+
+.lorem-ipsum {
+  position: absolute;
+  width: 459px;
+  height: 64.79px;
+  left: 1069px;
+  top: 397.09px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.lorem-text-long {
+  position: absolute;
+  width: 621px;
+  height: 233.26px;
+  left: 1069px;
+  top: 497.06px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+
+.button2 {
+  position: absolute;
+  width: 300px;
+  height: 70px;
+  left: 1069px;
+  top: 763.64px;
+
+  background: #fee542;
+  border-radius: 10px;
+  border: #fee542;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+
+  color: #415679;
+}
+
+.rectangle7 {
+  position: absolute;
+  width: 1920px;
+  height: 1010px;
+  left: -2px;
+  top: 1937px;
+
+  background: #415679;
+}
+
+.testimonials-title {
+  position: absolute;
+  width: 418px;
+  height: 67px;
+  left: 232px;
+  top: 118px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #fee542;
+}
+
+.lorem-testimonials {
+  position: absolute;
+  width: 1282px;
+  height: 96px;
+  left: 232px;
+  top: 226px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 48px;
+
+  color: #ffffff;
+}
+
+.card1 {
+  position: absolute;
+  width: 467px;
+  height: 614px;
+  left: 384px;
+  top: 354px;
+
+  background: #fee542;
+  border-radius: 30px;
+}
+
+.image-testimonials1 {
+  position: absolute;
+  width: 265px;
+  height: 265px;
+  left: 115px;
+  top: 33px;
+  border-radius: 30px;
+}
+
+.card2 {
+  position: absolute;
+  width: 467px;
+  height: 614px;
+  left: 1061px;
+  top: 354px;
+
+  background: #fee542;
+  border-radius: 30px;
+}
+.image-testimonials2 {
+  position: absolute;
+  width: 265px;
+  height: 265px;
+  left: 120px;
+  top: 33px;
+  background-color: #fee542;
+  border-radius: 30px;
+}
+
+.img-test2 {
+  position: absolute;
+  border-radius: 50%;
+}
+
+.name {
+  position: absolute;
+  width: 277px;
+  height: 61px;
+  left: 95px;
+  top: 329px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.card-text {
+  position: absolute;
+  width: 395px;
+  height: 192px;
+  left: 36px;
+  top: 390px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.frame1 {
+  position: absolute;
+  width: 1920px;
+  height: 968px;
+  left: -2px;
+  top: 2947px;
+
+  background: rgba(183, 201, 213, 0.3);
+}
+.services-title {
+  position: absolute;
+  width: 272px;
+  height: 67px;
+  left: 232px;
+  top: 132px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.lorem-services {
+  position: absolute;
+  width: 1282px;
+  height: 72px;
+  left: 232px;
+  top: 240px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+.interface {
+  position: absolute;
+  width: 946px;
+  height: 623px;
+  left: 0px;
+  top: 345px;
+
+  background: rgba(183, 201, 213, 0.05);
+}
+.user-interface {
+  position: absolute;
+  width: 619px;
+  height: 134px;
+  left: 232px;
+  top: 122px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.user-lorem {
+  position: absolute;
+  width: 619px;
+  height: 216px;
+  left: 232px;
+  top: 314px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+.image-services {
+  position: absolute;
+  width: 975px;
+  height: 623px;
+  left: 945px;
+  top: 345px;
+}
+
+.slide2-services {
+  position: absolute;
+  width: 28px;
+  height: 140px;
+  left: 1820px;
+  top: 587px;
+}
+.pointer-up {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 914px;
+  top: 453px;
+}
+.pointer-down {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 914px;
+  top: 800px;
+}
+
+.partners {
+  position: absolute;
+  width: 1920px;
+  height: 731px;
+  left: 0px;
+  top: 3915px;
+
+  background: #415679;
+}
+.supporters-title {
+  position: absolute;
+  left: 12.08%;
+  right: 68.18%;
+  top: 16.96%;
+  bottom: 72.82%;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.lorem-supporters {
+  position: absolute;
+  left: 12.08%;
+  right: 21.15%;
+  top: 32.72%;
+  bottom: 56.77%;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #ffffff;
+}
+.sup-img1 {
+  position: absolute;
+  left: 56.69%;
+  right: 29.41%;
+  top: 53.27%;
+  bottom: 25.13%;
+}
+.sup-img2 {
+  position: absolute;
+  left: 73.33%;
+  right: 21.27%;
+  top: 41.18%;
+  bottom: 25.92%;
+}
+.sup-img3 {
+  position: absolute;
+  left: 13.65%;
+  right: 17.32%;
+  top: 82.64%;
+  bottom: 6.26%;
+}
+
+.frame5 {
+  position: absolute;
+  width: 1920px;
+  height: 968px;
+  left: 0px;
+  top: 4645px;
+
+  background: rgba(183, 201, 213, 0.3);
+}
+
+.about-title {
+  position: absolute;
+  width: 288px;
+  height: 67px;
+  left: 231px;
+  top: 120px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.lorem-about {
+  position: absolute;
+  width: 1282px;
+  height: 72px;
+  left: 231px;
+  top: 228px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+.image-about {
+  position: absolute;
+  width: 960px;
+  height: 623px;
+  left: 0px;
+  top: 345px;
+}
+.slide3-about {
+  position: absolute;
+  width: 28px;
+  height: 320px;
+  left: 72px;
+  top: 497px;
+}
+.rectangle6 {
+  position: absolute;
+  width: 960px;
+  height: 623px;
+  left: 960px;
+  top: 345px;
+
+  background: #fec9ca;
+}
+.rect6-about {
+  position: absolute;
+  width: 387.44px;
+  height: 67px;
+  left: 109px;
+  top: 78px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.rect6-lorem {
+  position: absolute;
+  width: 621px;
+  height: 363px;
+  left: 109px;
+  top: 186px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+
+.frame7 {
+  position: absolute;
+  width: 1920px;
+  height: 885px;
+  left: 0px;
+  top: 5613px;
+
+  background: rgba(183, 201, 213, 0.3);
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+}
+.contact-title {
+  position: absolute;
+  width: 360px;
+  height: 70.51px;
+  left: 230px;
+  top: 126.28px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 67px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.lorem-contact {
+  position: absolute;
+  width: 1282px;
+  height: 75.77px;
+  left: 230px;
+  top: 239.93px;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+}
+.input1 {
+  position: absolute;
+  width: 186px;
+  height: 29.73px;
+  left: 246px;
+  top: 417.23px;
+
+  font-family: GHEA Grapalat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 25px;
+  background: transparent;
+  border: transparent;
+}
+.input2 {
+  position: absolute;
+  width: 186px;
+  height: 29.73px;
+  left: 746px;
+  top: 417.23px;
+
+  font-family: GHEA Grapalat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 25px;
+  background: transparent;
+  border: transparent;
+}
+.input3 {
+  position: absolute;
+  width: 186px;
+  height: 29.73px;
+  left: 1245px;
+  top: 417.23px;
+
+  font-family: GHEA Grapalat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 25px;
+  background: transparent;
+  border: transparent;
+}
+.vector3 {
+  position: absolute;
+  width: 467px;
+  height: 0px;
+  left: 230px;
+  top: 463.81px;
+
+  border: 2px solid #999999;
+}
+
+.vector4 {
+  position: absolute;
+  width: 466px;
+  height: 0px;
+  left: 727px;
+  top: 463.81px;
+
+  border: 2px solid #999999;
+}
+.vector5 {
+  position: absolute;
+  width: 467px;
+  height: 0px;
+  left: 1223px;
+  top: 463.81px;
+
+  border: 2px solid #999999;
+}
+.contact-input {
+  position: absolute;
+  width: 1460px;
+  height: 254.7px;
+  left: 230px;
+  top: 497.5px;
+
+  background: transparent;
+  border: 2px solid #999999;
+
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.button3 {
+  position: absolute;
+  width: 300px;
+  height: 69.37px;
+  left: 1389px;
+  top: 773.01px;
+
+  background: #fee542;
+  border-radius: 10px;
+  border: #fee542;
+
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+
+  letter-spacing: 0.1em;
+
+  color: #000000;
+}
+
+.rectangle10 {
+  position: absolute;
+  width: 1919px;
+  height: 409px;
+  left: 0px;
+  top: 6498px;
+
+  background: #415679;
+}
+
+.rect10-portfolio {
+  position: absolute;
+  width: 93px;
+  height: 28px;
+  left: 352px;
+  top: 96px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect10-testimonials {
+  position: absolute;
+  width: 138px;
+  height: 28px;
+  left: 517px;
+  top: 96px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect10-services {
+  position: absolute;
+  width: 91px;
+  height: 28px;
+  left: 728px;
+  top: 96px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect10-supporters {
+  position: absolute;
+  width: 118px;
+  height: 28px;
+  left: 1094px;
+  top: 6600px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect10-about {
+  position: absolute;
+  width: 96px;
+  height: 28px;
+  left: 1282px;
+  top: 6600px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect10-contact {
+  position: absolute;
+  width: 116px;
+  height: 28px;
+  left: 1448px;
+  top: 6600px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.rect-img {
+  position: absolute;
+  width: 81px;
+  height: 74px;
+  left: 920px;
+  top: 6579px;
+}
+
+.line {
+  position: absolute;
+  width: 1454.5px;
+  height: 0px;
+  left: 233px;
+  top: 6672px;
+
+  border: 1px solid #ffffff;
+  opacity: 0, 5;
+}
+
+.facebook {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 820px;
+  top: 6709px;
+}
+
+.twitter {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 897px;
+  top: 6709px;
+}
+
+.instagram {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 974px;
+  top: 6708px;
+}
+
+.youtube {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  left: 1051px;
+  top: 6709px;
+}
